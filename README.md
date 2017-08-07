@@ -1,4 +1,4 @@
-# Requirements
+# Hive Export App Challenge
 ### A few notes
 This exercise is meant to test a few core competencies and is based on real problems we've worked with in the past. As a result, the exercise is intentionally open-ended to allow for creative problem solving and encourage question asking.
 
